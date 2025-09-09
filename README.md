@@ -1,5 +1,3 @@
-![hdhw's github stats](https://github-readme-stats.vercel.app/api?username=hdhw&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
 ## about me
 
 hey i'm **hdhw** she/they 🌈  
