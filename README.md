@@ -1,7 +1,7 @@
 ## about me
 
 hey i'm **hdhw** she/they 🌈  
-i’m all about creating epic projects, vibing with panquakes, and leveling up my coding skills 🎮✨
+dni if ur 18+ please go look at my repos idk
 
 ## technologies & tools
 
