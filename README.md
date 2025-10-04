@@ -1,6 +1,6 @@
 ## about me
 
-hey i'm **hdhw** she/they 🌈  
+hey i'm **production** she/they 🌈  
 dni if ur 18+ please go look at my repos idk
 
 ## technologies & tools
