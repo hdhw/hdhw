@@ -1,18 +1,12 @@
-## about me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=8E00FF&center=true&random=false&width=435&lines=Konqi+%7C+Developer;Founder+%40+Converse!)](https://converse.starlited3vv.workers.dev)
 
-hey i'm **production** 
-dni if ur 18+ please go look at my repos idk
+<img align="left" src="https://i.pinimg.com/originals/35/6f/b6/356fb6e766df967aec8696606cdaae53.png" width="147"/> 
 
-## technologies & tools
+```csharp
+github.com/nebulal0l
+dc   $  notenoughcharactersinmyname
+web  $  https://converse.starlited3vv.workers.dev
+guns $  /hr
+```
 
-- 💻 **languages:** javascript, python, c++  
-- 🛠 **tools:** git, vs code, docker  
-- 🌐 **frameworks & libs:** react, node.js, flask  
-
-## github stats
-
-![hdhw's github stats](https://github-readme-stats.vercel.app/api?username=hdhw&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-## top languages
-
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hdhw&langs_count=10&layout=compact&theme=radical)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1322389041030762538)](https://discord.com/users/1322389041030762538)
