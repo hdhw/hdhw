@@ -9,5 +9,3 @@ dc   $  notenoughcharactersinmyname
 web  $  https://converse.starlited3vv.workers.dev
 guns $  /hr
 ```
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1322389041030762538)](https://discord.com/users/1322389041030762538)
