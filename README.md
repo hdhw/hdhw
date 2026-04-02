@@ -11,7 +11,7 @@
 ---
 
 ```csharp
-github  $  github.com/nebulal0l
+github  $  github.com/hdhw
 dc      $  notenoughcharactersinmyname
 web     $  converse.starlited3vv.workers.dev
 guns    $  /hr
@@ -30,5 +30,4 @@ building **[Converse](https://converse.starlited3vv.workers.dev)** — come chec
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nebulal0l&show_icons=true&theme=transparent&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff" />
 </div>
