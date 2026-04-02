@@ -30,5 +30,7 @@ building **[Converse](https://converse.starlited3vv.workers.dev)** come check it
 ---
 
 <div align="center">
-[![Discord Presence](https://lanyard.cnrad.dev/api/1322389041030762538)](https://discord.com/users/1322389041030762538)
+  <a href="https://discord.com/users/1322389041030762538">
+    <img src="https://lanyard.cnrad.dev/api/1322389041030762538" alt="Discord Presence"/>
+  </a>
 </div>
