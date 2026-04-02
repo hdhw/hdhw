@@ -23,11 +23,12 @@ guns    $  /hr
 
 ### what i'm up to
 
-building **[Converse](https://converse.starlited3vv.workers.dev)** — come check it out
+building **[Converse](https://converse.starlited3vv.workers.dev)** come check it out
 
 </div>
 
 ---
 
 <div align="center">
+[![Discord Presence](https://lanyard.cnrad.dev/api/1322389041030762538)](https://discord.com/users/1322389041030762538)
 </div>
