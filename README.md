@@ -13,7 +13,7 @@
 ```csharp
 github  $  github.com/hdhw
 dc      $  notenoughcharactersinmyname
-web     $  converse.starlited3vv.workers.dev
+web     $  realcat.lol
 guns    $  /hr
 ```
 
@@ -23,7 +23,7 @@ guns    $  /hr
 
 ### what i'm up to
 
-building **[Converse](https://converse.starlited3vv.workers.dev)** come check it out
+building **[CustomProfiles](https://github.com/hdhw/CustomProfiles)** come check it out
 
 </div>
 
