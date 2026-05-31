@@ -23,7 +23,7 @@ guns    $  /hr
 
 ### what i'm up to
 
-building **[CustomProfiles](https://github.com/hdhw/CustomProfiles)** come check it out
+building **[CustomProfiles](https://github.com/ManyPlugins/CustomProfiles)** come check it out
 
 </div>
 
