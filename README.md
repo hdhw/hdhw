@@ -30,7 +30,7 @@ building **[CustomProfiles](https://github.com/ManyPlugins/CustomProfiles)** com
 ---
 
 <div align="center">
-  <a href="https://discord.com/users/1322389041030762538">
-    <img src="https://lanyard.cnrad.dev/api/1322389041030762538" alt="Discord Presence"/>
+  <a href="https://discord.com/users/530244467039535104">
+    <img src="https://lanyard.cnrad.dev/api/530244467039535104" alt="Discord Presence"/>
   </a>
 </div>
