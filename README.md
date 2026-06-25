@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=00FF41&center=true&random=false&width=435&lines=Konqi+%7C+Developer;Founder+%40+Converse!)](https://converse.starlited3vv.workers.dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=ff7dfd&center=true&random=false&width=435&lines=Yuri+%7C+Monika;Sayori+%40+Natsuki!)](https://realcat.lol)
 
 <img src="https://community.kde.org/images.community/thumb/4/40/Mascot_konqi.png/250px-Mascot_konqi.png" width="100"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
