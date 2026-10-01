@@ -1,6 +1,8 @@
 <div align="center">
 
-# A Cat That Goes Meow
+<img src="https://github.com/hdhw.png" width="120" height="120" style="border-radius: 50%;">
+
+# :3
 
 ### projects
 
