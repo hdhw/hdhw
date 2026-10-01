@@ -5,5 +5,6 @@
 # A Cat That Goes Meow
 
 [**BubbaBlox Clients**](https://github.com/hdhw/bubbablox-clients)
+[**nx-sys-info**](https://github.com/hdhw/nx-sys-info)
 
 </div>
