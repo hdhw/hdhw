@@ -17,10 +17,4 @@
 
 [**nx-sys-info**](https://github.com/hdhw/nx-sys-info)
 
-### GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=hdhw&show_icons=true&hide_border=true&theme=transparent" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdhw&layout=compact&hide_border=true&theme=transparent" />
-
 </div>
